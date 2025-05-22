@@ -23,7 +23,7 @@ An interactive tutorial page demonstrating different CSS position properties and
 
 ## Live Demo
 
-[View Live Demo](https://sznzn.github.io/portfolio-css/Position/position.html)
+[View Live Demo](https://sznzn.github.io/position-css/)
 
 ## Author
 
